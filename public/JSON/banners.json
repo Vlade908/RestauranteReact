@@ -7,16 +7,16 @@
     {
         "id": 2,
         "categoria": "restaurante",
-        "image": "https://img.freepik.com/fotos-gratis/restaurante-de-luxo-interior-de-bar-grill-com-lustres-e-moveis_114579-2341.jpg"
+        "image": "https://www.kayak.com.br/rimg/himg/eb/af/82/ice-142150030-photo.aspx_did=2692_brochureid=69886_publicid=53765732_instanceid=4_resizing=4K-432223.jpg?width=1366&height=768&crop=true"
     },
     {
         "id": 3,
         "categoria": "pratos",
-        "image": "/IMGS/prato1.jpg"
+        "image": "https://beniniedonato.com.br/wp-content/uploads/2023/08/pratos-tipicos-de-Arezzo-1.jpg"
     },
     {
         "id": 4,
         "categoria": "pratos",
-        "image": "/IMGS/prato2.png"
+        "image": "https://thumbs.dreamstime.com/b/mesa-com-comida-e-bebidas-para-almo%C3%A7o-ou-brunch-em-restaurante-caf%C3%A9-conceito-de-da-manh%C3%A3-buffet-hotel-jantar-fino-refei%C3%A7%C3%B5es-235088233.jpg"
     }
 ]
