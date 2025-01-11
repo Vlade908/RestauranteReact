@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "categoria": "restaurante",
+        "image": "/RestauranteSite/IMGS/imagemRest.jpg" 
+    },
+    {
+        "id": 2,
+        "categoria": "restaurante",
+        "image": "https://img.freepik.com/fotos-gratis/restaurante-de-luxo-interior-de-bar-grill-com-lustres-e-moveis_114579-2341.jpg"
+    },
+    {
+        "id": 3,
+        "categoria": "pratos",
+        "image": "/RestauranteSite/IMGS/prato1.jpg"
+    },
+    {
+        "id": 4,
+        "categoria": "pratos",
+        "image": "/RestauranteSite/IMGS/prato2.png"
+    }
+]
