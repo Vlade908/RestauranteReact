@@ -1,0 +1,67 @@
+{
+    "CARDAPIO": {
+      "PRODUTOS": [
+        {
+          "id": "1",
+          "descricao": "Pão na chapa",
+          "preco": 4.00
+        },
+        {
+          "id": "2",
+          "descricao": "Pão de queijo",
+          "preco": 3.00
+        },
+        {
+          "id": "3",
+          "descricao": "Sonho",
+          "preco": 6.00
+        },
+        {
+          "id": "4",
+          "descricao": "Empada",
+          "preco": 5.00
+        },
+        {
+          "id": "5",
+          "descricao": "Kibe",
+          "preco": 5.00
+        },
+        {
+          "id": "6",
+          "descricao": "Coxinha",
+          "preco": 4.50
+        },
+        {
+          "id": "7",
+          "descricao": "Misto quente",
+          "preco": 7.00
+        },
+        {
+          "id": "8",
+          "descricao": "Torta de frango",
+          "preco": 8.00
+        },
+        {
+          "id": "9",
+          "descricao": "Bolo de cenoura",
+          "preco": 5.00
+        },
+        {
+          "id": "10",
+          "descricao": "Croissant",
+          "preco": 6.50
+        },
+        {
+          "id": "11",
+          "descricao": "Esfiha de carne",
+          "preco": 4.00
+        },
+        {
+          "id": "12",
+          "descricao": "Brigadeiro",
+          "preco": 2.00
+        }
+      ]
+    }
+  }
+  

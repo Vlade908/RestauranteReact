@@ -1,0 +1,14 @@
+
+.slide-item{
+    width: 99vw;
+    height: 350px;
+    object-fit: cover;
+}
+
+#banner {
+    width: 96vw;
+    padding-top: 2.6rem;
+    box-sizing: border-box; /* Garante que padding não afete a largura */
+}
+
+

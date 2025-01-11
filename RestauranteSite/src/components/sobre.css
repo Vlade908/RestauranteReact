@@ -1,0 +1,52 @@
+.restaurant-sobre {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  padding: 3rem;
+  background: linear-gradient(to right, #2c3e50, #34495e);
+  color: #fff;
+  border-radius: 10px;
+}
+
+.sobre-content {
+  max-width: 50%;
+}
+
+.sobre-content h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #00e676;
+}
+
+.sobre-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.sobre-content strong {
+  color: #00e676;
+}
+
+.sobre-image img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+@media (max-width: 768px) {
+  .restaurant-sobre {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .sobre-content {
+    max-width: 100%;
+  }
+
+  .sobre-image img {
+    max-width: 100%;
+  }
+}

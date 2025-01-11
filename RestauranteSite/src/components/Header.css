@@ -1,0 +1,97 @@
+/* Estilos do Header */
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #222; /* Cor de fundo mais suave */
+  z-index: 1000;
+  padding: 5px 20px; /* Reduzir padding superior e inferior para compactar a navbar */
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #00E676; /* Borda inferior suave */
+}
+
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+}
+
+.logo-container {
+  margin-right: 15px; /* Reduzir margem à direita */
+}
+
+/* Seletor para imagem diretamente */
+.logo {
+  height: 30px; /* Ajustando o tamanho da logo */
+  width: auto;  /* Mantém a proporção */
+}
+
+/* Navbar items */
+.navbar ul {
+  list-style-type: none;
+  display: flex;
+  gap: 12px; /* Diminuir o espaço entre os itens de navegação */
+  margin-left: auto; /* Desloca os links para a direita */
+}
+
+.navbar li {
+  position: relative;
+}
+
+.navbar li a {
+  color: white;
+  text-decoration: none;
+  font-size: 0.9em; /* Reduzir o tamanho da fonte */
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+.navbar li.active a {
+  color: #00E676; /* Cor para seção ativa */
+  font-weight: bold;
+}
+
+.navbar li a:hover {
+  color: #00E676;
+}
+
+/* Adiciona espaçamento entre o conteúdo e o navbar fixo */
+section {
+  padding-top: 30px; /* Ajuste para evitar sobreposição com o navbar */
+  margin-top: 30px; /* Ajuste para evitar sobreposição com o navbar */
+}
+
+section#home {
+  background-color: lightgray;
+  height: 100vh;
+}
+
+section#about {
+  background-color: lightblue;
+  height: 100vh;
+}
+
+section#menu {
+  background-color: lightgreen;
+  height: 100vh;
+}
+
+
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .navbar ul {
+    flex-direction: column;
+    gap: 8px; /* Diminuir o espaço entre os links */
+    align-items: center;
+  }
+
+  .logo {
+    height: 25px; /* Diminuir a logo ainda mais em dispositivos móveis */
+  }
+}
