@@ -2,11 +2,13 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 2rem;
+  gap: 1.rem;
   padding: 3rem;
   background: linear-gradient(to right, #2c3e50, #34495e);
   color: #fff;
   border-radius: 10px;
+  align-self: center;
+  margin: auto;
 }
 
 .sobre-content {

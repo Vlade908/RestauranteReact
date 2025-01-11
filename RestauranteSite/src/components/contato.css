@@ -11,6 +11,7 @@
 .contact-info {
   flex: 1;
   text-align: left;
+  
 }
 
 .contact-info h1 {
@@ -39,6 +40,7 @@
   display: flex;
   flex-direction: column;
   gap: 1.2rem;
+
 }
 
 .contact-form input,
@@ -58,7 +60,7 @@
 }
 
 .cta-button {
-  background-color: #00E676; /* Verde */
+  background-color: #00E676;
   color: #fff;
   padding: 1rem;
   font-size: 1.2rem;
@@ -66,6 +68,8 @@
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
+  align-self: flex-start; /* Garante que o botão fique no final da textarea */
+  
 }
 
 .cta-button:hover {
