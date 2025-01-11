@@ -2,7 +2,7 @@
     {
         "id": 1,
         "categoria": "restaurante",
-        "image": "/RestauranteReact/IMGS/imagemRest.jpg" 
+        "image": "/IMGS/imagemRest.jpg" 
     },
     {
         "id": 2,
@@ -12,11 +12,11 @@
     {
         "id": 3,
         "categoria": "pratos",
-        "image": "/RestauranteReact/IMGS/prato1.jpg"
+        "image": "/IMGS/prato1.jpg"
     },
     {
         "id": 4,
         "categoria": "pratos",
-        "image": "/RestauranteReact/IMGS/prato2.png"
+        "image": "/IMGS/prato2.png"
     }
 ]
