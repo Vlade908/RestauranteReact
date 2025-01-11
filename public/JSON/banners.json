@@ -12,11 +12,11 @@
     {
         "id": 3,
         "categoria": "pratos",
-        "image": "https://beniniedonato.com.br/wp-content/uploads/2023/08/pratos-tipicos-de-Arezzo-1.jpg"
+        "image": "/RestauranteReact/IMGS/prato1.png"
     },
     {
         "id": 4,
         "categoria": "pratos",
-        "image": "https://thumbs.dreamstime.com/b/mesa-com-comida-e-bebidas-para-almo%C3%A7o-ou-brunch-em-restaurante-caf%C3%A9-conceito-de-da-manh%C3%A3-buffet-hotel-jantar-fino-refei%C3%A7%C3%B5es-235088233.jpg"
+        "image": "/RestauranteReact/IMGS/prato2.png"
     }
 ]
