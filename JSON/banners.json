@@ -2,7 +2,7 @@
     {
         "id": 1,
         "categoria": "restaurante",
-        "image": "/IMGS/imagemRest.jpg" 
+        "image": "https://images.pexels.com/photos/260922/pexels-photo-260922.jpeg" 
     },
     {
         "id": 2,
