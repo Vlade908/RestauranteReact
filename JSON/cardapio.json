@@ -1,67 +1,66 @@
 {
-    "CARDAPIO": {
-      "PRODUTOS": [
-        {
-          "id": "1",
-          "descricao": "Pão na chapa",
-          "preco": 4.00
-        },
-        {
-          "id": "2",
-          "descricao": "Pão de queijo",
-          "preco": 3.00
-        },
-        {
-          "id": "3",
-          "descricao": "Sonho",
-          "preco": 6.00
-        },
-        {
-          "id": "4",
-          "descricao": "Empada",
-          "preco": 5.00
-        },
-        {
-          "id": "5",
-          "descricao": "Kibe",
-          "preco": 5.00
-        },
-        {
-          "id": "6",
-          "descricao": "Coxinha",
-          "preco": 4.50
-        },
-        {
-          "id": "7",
-          "descricao": "Misto quente",
-          "preco": 7.00
-        },
-        {
-          "id": "8",
-          "descricao": "Torta de frango",
-          "preco": 8.00
-        },
-        {
-          "id": "9",
-          "descricao": "Bolo de cenoura",
-          "preco": 5.00
-        },
-        {
-          "id": "10",
-          "descricao": "Croissant",
-          "preco": 6.50
-        },
-        {
-          "id": "11",
-          "descricao": "Esfiha de carne",
-          "preco": 4.00
-        },
-        {
-          "id": "12",
-          "descricao": "Brigadeiro",
-          "preco": 2.00
-        }
-      ]
-    }
+  "CARDAPIO": {
+    "PRODUTOS": [
+      {
+        "id": "1",
+        "descricao": "Filé mignon ao molho de vinho tinto",
+        "preco": 120.00
+      },
+      {
+        "id": "2",
+        "descricao": "Salmão grelhado com crosta de ervas",
+        "preco": 95.00
+      },
+      {
+        "id": "3",
+        "descricao": "Risoto de camarão com limão siciliano",
+        "preco": 85.00
+      },
+      {
+        "id": "4",
+        "descricao": "Confit de pato com purê de mandioquinha",
+        "preco": 110.00
+      },
+      {
+        "id": "5",
+        "descricao": "Ravioli de trufa negra com manteiga de sálvia",
+        "preco": 130.00
+      },
+      {
+        "id": "6",
+        "descricao": "Polvo grelhado com batatas ao murro",
+        "preco": 150.00
+      },
+      {
+        "id": "7",
+        "descricao": "Tournedos Rossini",
+        "preco": 200.00
+      },
+      {
+        "id": "8",
+        "descricao": "Lagosta gratinada com queijo brie",
+        "preco": 180.00
+      },
+      {
+        "id": "9",
+        "descricao": "Bacalhau à Brás",
+        "preco": 90.00
+      },
+      {
+        "id": "10",
+        "descricao": "Carpaccio de wagyu com molho de mostarda",
+        "preco": 120.00
+      },
+      {
+        "id": "11",
+        "descricao": "Foie gras com geleia de figo",
+        "preco": 140.00
+      },
+      {
+        "id": "12",
+        "descricao": "Suflê de chocolate com calda de frutas vermelhas",
+        "preco": 50.00
+      }
+    ]
   }
-  
+}
